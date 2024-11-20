@@ -10,6 +10,8 @@ A score will be calculated for the best model we find.
 We have chosen to train our models on the CIFAR-10 dataset.
 
 
+![ImageApp](resources/presentation_first_page.png)
+
 
 ## Project Report
 <a href="resources/presentation_ai_project.pdf">
