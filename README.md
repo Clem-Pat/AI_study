@@ -12,7 +12,7 @@ We have chosen to train our models on the CIFAR-10 dataset.
 
 
 ## Project Report
-<a href="resources/presentation.pdf">
+<a href="resources/presentation_ai_project.pdf">
   <img src="https://static.vecteezy.com/system/resources/previews/023/234/824/original/pdf-icon-red-and-white-color-for-free-png.png" alt="Guide Image" width="70" height="70">
 </a>
 
