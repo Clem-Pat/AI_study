@@ -9,4 +9,14 @@ Efficient means that it must achieve an accuracy of at least 90%.
 A score will be calculated for the best model we find.
 We have chosen to train our models on the CIFAR-10 dataset.
 
-![image](https://github.com/user-attachments/assets/a2e555a2-ccd5-4b11-9b87-c5613ba6c85a)
+
+
+## Project Report
+<a href="resources/presentation.pdf">
+  <img src="https://static.vecteezy.com/system/resources/previews/023/234/824/original/pdf-icon-red-and-white-color-for-free-png.png" alt="Guide Image" width="70" height="70">
+</a>
+
+## Authors
+
+- [@Clem-Pat](https://www.github.com/Clem-Pat)
+- [@teatoscan](https://github.com/teatoscan)
